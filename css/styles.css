@@ -1,5 +1,8 @@
-.spider-man-pic{
+.spiderman-pic{
   height: 450px;
   width: 400px;
-  
+  object-fit: cover;
+}
+.spiderman{
+
 }
